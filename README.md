@@ -8,14 +8,14 @@ TOG는 'Tool of GOD'와 'Tool of Grace'의 약자로, 하나님의 도구이자 
 
 <div style="display: flex; justify-content: space-between;">
   <img src="https://github.com/SangJLee1103/TOG-iOS/assets/76645463/e2573c0e-b93a-4078-ba2a-a1d01b663a87" alt="Screenshot - 1" style="width: 30%;"/>
-  <img src="[https://github.com/Team-TOG/TOG-iOS/assets/76645463/1ef05962-a0ab-4eb6-bd70-34dff204837f](https://github.com/SangJLee1103/TOG-iOS/assets/76645463/d9364aaa-55ce-466d-b84b-6cb88cc00b7b)" alt="Screenshot - 2" style="width: 30%;"/>
-  <img src="[https://github.com/Team-TOG/TOG-iOS/assets/76645463/a44b7adb-a1d2-49a9-9fe3-a879e0c08506](https://github.com/SangJLee1103/TOG-iOS/assets/76645463/be99ff2b-6f84-4f3f-9984-9c22ca20aceb)" alt="Screenshot - 3" style="width: 30%;"/>
+  <img src="https://github.com/SangJLee1103/TOG-iOS/assets/76645463/0da05fb5-4659-43f0-970c-a5bda27cd662" alt="Screenshot - 2" style="width: 30%;"/>
+  <img src="https://github.com/SangJLee1103/TOG-iOS/assets/76645463/c0ac61dc-d564-42bf-8779-47d48f1d0870" alt="Screenshot - 3" style="width: 30%;"/>
 </div>
 
 <div style="display: flex; justify-content: space-between;">
-  <img src="[https://github.com/Team-TOG/TOG-iOS/assets/76645463/13dec060-69fe-47fc-a21c-5ded26083a84](https://github.com/SangJLee1103/TOG-iOS/assets/76645463/8bd3e1d0-b3e0-4c2e-bc9e-b0d5c559d220)" alt="Screenshot - 4" style="width: 30%;"/>
-  <img src="[https://github.com/Team-TOG/TOG-iOS/assets/76645463/e089ef52-7c4e-4160-a99b-3597f1e3dc2b](https://github.com/SangJLee1103/TOG-iOS/assets/76645463/4b4051a4-a64e-42ff-8821-abea23baf739)" alt="Screenshot - 5" style="width: 30%;"/>
-  <img src="[https://github.com/Team-TOG/TOG-iOS/assets/76645463/0e4fcf96-1847-46fb-88d2-3d1010cb1c5c](https://github.com/SangJLee1103/TOG-iOS/assets/76645463/dd91817b-77c4-4b55-a10b-af5edcc9ab28)" alt="Screenshot - 6" style="width: 30%;"/>
+  <img src="https://github.com/SangJLee1103/TOG-iOS/assets/76645463/ada0e130-f928-453b-99e5-d6f5404bbbb0" alt="Screenshot - 4" style="width: 30%;"/>
+  <img src="https://github.com/SangJLee1103/TOG-iOS/assets/76645463/317304d3-dc7d-493c-9b36-69b825747d3f" alt="Screenshot - 5" style="width: 30%;"/>
+  <img src="https://github.com/SangJLee1103/TOG-iOS/assets/76645463/a5398ed5-34a1-4ed4-9d85-ca73da4e9499" alt="Screenshot - 6" style="width: 30%;"/>
 </div>
 
 - 스플래쉬 화면
