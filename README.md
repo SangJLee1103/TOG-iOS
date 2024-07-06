@@ -27,7 +27,9 @@ TOG는 'Tool of GOD'와 'Tool of Grace'의 약자로, 하나님의 도구이자 
 - 옵션 화면
 
 -> 앱 실행 영상
-https://github.com/SangJLee1103/FLO-RX/assets/76645463/8048dbd1-35d8-4bb4-b499-c6d382125411
+https://github.com/SangJLee1103/TOG-iOS/assets/76645463/46479b55-ed96-4503-8c31-5ec77a179cdf
+
+
 
 
 ## 2. 프레임워크
